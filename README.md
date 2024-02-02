@@ -1,5 +1,5 @@
 
-![Descricao da sua imagem]![Programação-Cartão de crédito - Um projeto em Java](https://github.com/MarcioOtavio/cartao-de-credito/assets/114531896/8bbf10bb-8c79-4df9-8476-53c52778b469)
+![Capa do projeto Cartão de Crédito]![Programação-Cartão de crédito - Um projeto em Java](https://github.com/MarcioOtavio/cartao-de-credito/assets/114531896/8bbf10bb-8c79-4df9-8476-53c52778b469)
 
 # Cartão de crédito
 
