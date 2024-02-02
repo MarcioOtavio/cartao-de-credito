@@ -30,7 +30,7 @@ Em suma, aprofundar-me nas estruturas de dados Java foi instrumental na constru�
 
 Tela de detalhes do produto
 
-![orgs-desafio-detalhes]![Captura de tela 2024-02-01 205233](https://github.com/MarcioOtavio/cartao-de-credito/assets/114531896/ab314a5f-8263-45a3-9dd4-4e9acced206f)
+![Captura de tela 2024-02-01 210248](https://github.com/MarcioOtavio/cartao-de-credito/assets/114531896/22cd8417-0cf9-4b43-928c-a939ea096e01)
 
 
 Você pode [acessar o código fonte do projeto][(https://github.com/MarcioOtavio/cartao-de-credito)]
